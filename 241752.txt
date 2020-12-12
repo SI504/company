@@ -1,0 +1,10 @@
+emp_no:241752
+birth_date:1960-12-23
+first_name:Duri
+last_name:Beutelspacher
+gender:M
+hire_date:1985-02-11
+s.emp_no:241752
+salary:42298
+from_date:1985-02-11
+to_date:1986-02-11

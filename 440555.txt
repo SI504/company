@@ -1,0 +1,10 @@
+emp_no:440555
+birth_date:1956-05-31
+first_name:Ulf
+last_name:Demos
+gender:F
+hire_date:1985-02-05
+s.emp_no:440555
+salary:81463
+from_date:1985-02-05
+to_date:1986-02-05

@@ -1,0 +1,10 @@
+emp_no:84566
+birth_date:1959-03-15
+first_name:Barna
+last_name:Azevdeo
+gender:F
+hire_date:1985-02-08
+s.emp_no:84566
+salary:40000
+from_date:1985-02-08
+to_date:1986-02-08

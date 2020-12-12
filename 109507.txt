@@ -1,0 +1,10 @@
+emp_no:109507
+birth_date:1957-12-26
+first_name:Collette
+last_name:Sinitsyn
+gender:F
+hire_date:1985-02-07
+s.emp_no:109507
+salary:40000
+from_date:1985-02-07
+to_date:1986-02-07

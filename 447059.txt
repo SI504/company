@@ -1,0 +1,10 @@
+emp_no:447059
+birth_date:1964-03-21
+first_name:Pohua
+last_name:Rando
+gender:M
+hire_date:1985-02-13
+s.emp_no:447059
+salary:40000
+from_date:1985-02-13
+to_date:1986-02-13

@@ -1,0 +1,10 @@
+emp_no:294915
+birth_date:1960-04-13
+first_name:Honesty
+last_name:Danlos
+gender:M
+hire_date:1985-02-04
+s.emp_no:294915
+salary:44561
+from_date:1985-02-04
+to_date:1986-02-04

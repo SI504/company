@@ -1,0 +1,10 @@
+emp_no:238498
+birth_date:1953-03-23
+first_name:Heon
+last_name:Macedo
+gender:M
+hire_date:1985-02-03
+s.emp_no:238498
+salary:50126
+from_date:1985-02-03
+to_date:1986-02-03

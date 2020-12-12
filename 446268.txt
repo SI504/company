@@ -1,0 +1,10 @@
+emp_no:446268
+birth_date:1956-08-28
+first_name:Weiru
+last_name:Furedi
+gender:F
+hire_date:1985-02-13
+s.emp_no:446268
+salary:47053
+from_date:1985-02-13
+to_date:1986-02-13

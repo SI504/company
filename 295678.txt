@@ -1,0 +1,10 @@
+emp_no:295678
+birth_date:1958-12-25
+first_name:Venkatesan
+last_name:Camarinopoulos
+gender:M
+hire_date:1985-02-09
+s.emp_no:295678
+salary:46765
+from_date:1985-02-09
+to_date:1986-02-09

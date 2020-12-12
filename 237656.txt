@@ -1,0 +1,10 @@
+emp_no:237656
+birth_date:1956-05-13
+first_name:Junsik
+last_name:Suwa
+gender:F
+hire_date:1985-02-18
+s.emp_no:237656
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

@@ -1,0 +1,10 @@
+emp_no:83308
+birth_date:1960-08-14
+first_name:Dayanand
+last_name:Marzano
+gender:F
+hire_date:1985-02-16
+s.emp_no:83308
+salary:40000
+from_date:1985-02-16
+to_date:1986-02-16

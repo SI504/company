@@ -1,0 +1,10 @@
+emp_no:405535
+birth_date:1954-04-29
+first_name:Yagil
+last_name:Schieder
+gender:M
+hire_date:1985-02-08
+s.emp_no:405535
+salary:60648
+from_date:1985-02-08
+to_date:1986-02-08

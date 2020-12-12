@@ -1,0 +1,10 @@
+emp_no:453187
+birth_date:1962-07-26
+first_name:Tetsushi
+last_name:Staylopatis
+gender:F
+hire_date:1985-02-03
+s.emp_no:453187
+salary:90217
+from_date:1985-02-03
+to_date:1986-02-03

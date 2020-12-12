@@ -1,0 +1,10 @@
+emp_no:488543
+birth_date:1957-10-20
+first_name:Yucai
+last_name:Wixon
+gender:M
+hire_date:1985-02-12
+s.emp_no:488543
+salary:41342
+from_date:1985-02-12
+to_date:1986-02-12

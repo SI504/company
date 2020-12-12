@@ -1,0 +1,10 @@
+emp_no:404439
+birth_date:1959-01-07
+first_name:Weiye
+last_name:Spieker
+gender:F
+hire_date:1985-02-18
+s.emp_no:404439
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

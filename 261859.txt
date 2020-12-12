@@ -1,0 +1,10 @@
+emp_no:261859
+birth_date:1957-08-30
+first_name:Honglan
+last_name:Angelov
+gender:M
+hire_date:1985-02-02
+s.emp_no:261859
+salary:40000
+from_date:1985-02-02
+to_date:1986-02-02

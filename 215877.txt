@@ -1,0 +1,10 @@
+emp_no:215877
+birth_date:1957-12-17
+first_name:Moty
+last_name:Wilfing
+gender:F
+hire_date:1985-02-06
+s.emp_no:215877
+salary:60440
+from_date:1985-02-06
+to_date:1986-02-06

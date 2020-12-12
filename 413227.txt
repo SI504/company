@@ -1,0 +1,10 @@
+emp_no:413227
+birth_date:1959-12-29
+first_name:Radhika
+last_name:Jeansoulin
+gender:F
+hire_date:1985-02-08
+s.emp_no:413227
+salary:40000
+from_date:1985-02-08
+to_date:1986-02-08

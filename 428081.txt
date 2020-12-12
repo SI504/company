@@ -1,0 +1,10 @@
+emp_no:428081
+birth_date:1956-07-13
+first_name:Mayuko
+last_name:Koshiba
+gender:F
+hire_date:1985-02-14
+s.emp_no:428081
+salary:56546
+from_date:1985-02-14
+to_date:1986-02-14

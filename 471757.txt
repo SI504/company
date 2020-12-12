@@ -1,0 +1,10 @@
+emp_no:471757
+birth_date:1959-08-26
+first_name:Tsvetan
+last_name:Brobst
+gender:M
+hire_date:1985-02-06
+s.emp_no:471757
+salary:80654
+from_date:1985-02-06
+to_date:1986-02-06

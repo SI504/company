@@ -1,0 +1,10 @@
+emp_no:424719
+birth_date:1952-12-18
+first_name:Feixiong
+last_name:Curless
+gender:F
+hire_date:1985-02-03
+s.emp_no:424719
+salary:48809
+from_date:1985-02-03
+to_date:1986-02-03

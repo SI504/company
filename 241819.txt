@@ -1,0 +1,10 @@
+emp_no:241819
+birth_date:1957-01-28
+first_name:Yakichi
+last_name:Roohalamini
+gender:M
+hire_date:1985-02-02
+s.emp_no:241819
+salary:52035
+from_date:1985-02-02
+to_date:1986-02-02

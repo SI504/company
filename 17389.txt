@@ -1,0 +1,10 @@
+emp_no:17389
+birth_date:1962-11-23
+first_name:Taiji
+last_name:Kemmerer
+gender:F
+hire_date:1985-02-02
+s.emp_no:17389
+salary:40000
+from_date:1985-02-02
+to_date:1986-02-02

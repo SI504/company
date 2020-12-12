@@ -1,0 +1,10 @@
+emp_no:22757
+birth_date:1964-10-20
+first_name:Zhiguo
+last_name:Benveniste
+gender:F
+hire_date:1985-02-13
+s.emp_no:22757
+salary:45253
+from_date:1985-02-13
+to_date:1986-02-13

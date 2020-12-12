@@ -1,0 +1,10 @@
+emp_no:463416
+birth_date:1957-05-02
+first_name:Diederik
+last_name:Muhlberg
+gender:M
+hire_date:1985-02-12
+s.emp_no:463416
+salary:63240
+from_date:1985-02-12
+to_date:1986-02-12

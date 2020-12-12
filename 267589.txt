@@ -1,0 +1,10 @@
+emp_no:267589
+birth_date:1958-03-11
+first_name:Feipei
+last_name:Nollmann
+gender:M
+hire_date:1985-02-03
+s.emp_no:267589
+salary:75105
+from_date:1985-02-03
+to_date:1986-02-03

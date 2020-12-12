@@ -1,0 +1,10 @@
+emp_no:458899
+birth_date:1959-05-22
+first_name:Mooi
+last_name:Alencar
+gender:M
+hire_date:1985-02-07
+s.emp_no:458899
+salary:56230
+from_date:1985-02-07
+to_date:1986-02-07

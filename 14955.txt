@@ -1,0 +1,10 @@
+emp_no:14955
+birth_date:1954-06-23
+first_name:Boguslaw
+last_name:Kalefeld
+gender:F
+hire_date:1985-02-03
+s.emp_no:14955
+salary:45564
+from_date:1985-02-03
+to_date:1986-02-03

@@ -1,0 +1,10 @@
+emp_no:275281
+birth_date:1953-12-02
+first_name:Nadjib
+last_name:Veevers
+gender:M
+hire_date:1985-02-11
+s.emp_no:275281
+salary:84368
+from_date:1985-02-11
+to_date:1986-02-11

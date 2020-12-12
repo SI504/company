@@ -1,0 +1,10 @@
+emp_no:450549
+birth_date:1954-01-05
+first_name:Hyuckchul
+last_name:Sudbeck
+gender:M
+hire_date:1985-02-19
+s.emp_no:450549
+salary:58302
+from_date:1985-02-19
+to_date:1986-02-19

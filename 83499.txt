@@ -1,0 +1,10 @@
+emp_no:83499
+birth_date:1958-04-11
+first_name:Khedija
+last_name:Kossowski
+gender:F
+hire_date:1985-02-05
+s.emp_no:83499
+salary:40000
+from_date:1985-02-05
+to_date:1986-02-05

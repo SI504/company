@@ -1,0 +1,10 @@
+emp_no:27125
+birth_date:1964-09-08
+first_name:Soenke
+last_name:Munck
+gender:F
+hire_date:1985-02-13
+s.emp_no:27125
+salary:40000
+from_date:1985-02-13
+to_date:1986-02-13

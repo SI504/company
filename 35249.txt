@@ -1,0 +1,10 @@
+emp_no:35249
+birth_date:1959-11-01
+first_name:Mori
+last_name:Swiss
+gender:M
+hire_date:1985-02-04
+s.emp_no:35249
+salary:40000
+from_date:1985-02-04
+to_date:1985-12-07

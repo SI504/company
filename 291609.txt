@@ -1,0 +1,10 @@
+emp_no:291609
+birth_date:1958-09-01
+first_name:Berry
+last_name:Dulli
+gender:M
+hire_date:1985-02-05
+s.emp_no:291609
+salary:69564
+from_date:1985-02-05
+to_date:1986-02-05

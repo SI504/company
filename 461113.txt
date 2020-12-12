@@ -1,0 +1,10 @@
+emp_no:461113
+birth_date:1964-05-11
+first_name:Sudhanshu
+last_name:Conti
+gender:M
+hire_date:1985-02-02
+s.emp_no:461113
+salary:40000
+from_date:1985-02-02
+to_date:1986-02-02

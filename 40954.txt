@@ -1,0 +1,10 @@
+emp_no:40954
+birth_date:1960-05-14
+first_name:Stein
+last_name:Gire
+gender:M
+hire_date:1985-02-13
+s.emp_no:40954
+salary:61981
+from_date:1985-02-13
+to_date:1986-02-13

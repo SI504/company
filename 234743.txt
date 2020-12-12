@@ -1,0 +1,10 @@
+emp_no:234743
+birth_date:1962-08-18
+first_name:Sven
+last_name:Rijckaert
+gender:F
+hire_date:1985-02-08
+s.emp_no:234743
+salary:40000
+from_date:1985-02-08
+to_date:1986-02-08

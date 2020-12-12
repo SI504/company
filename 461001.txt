@@ -1,0 +1,10 @@
+emp_no:461001
+birth_date:1964-05-03
+first_name:Alagu
+last_name:Badache
+gender:M
+hire_date:1985-02-02
+s.emp_no:461001
+salary:80475
+from_date:1985-02-02
+to_date:1986-02-02

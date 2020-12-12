@@ -1,0 +1,10 @@
+emp_no:233802
+birth_date:1962-10-05
+first_name:Garnik
+last_name:Luby
+gender:M
+hire_date:1985-02-06
+s.emp_no:233802
+salary:45211
+from_date:1985-02-06
+to_date:1986-02-06

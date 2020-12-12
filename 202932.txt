@@ -1,0 +1,10 @@
+emp_no:202932
+birth_date:1959-10-16
+first_name:Peer
+last_name:Crelier
+gender:M
+hire_date:1985-02-04
+s.emp_no:202932
+salary:49425
+from_date:1985-02-04
+to_date:1986-02-04

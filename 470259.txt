@@ -1,0 +1,10 @@
+emp_no:470259
+birth_date:1958-02-02
+first_name:Kish
+last_name:Felder
+gender:M
+hire_date:1985-02-08
+s.emp_no:470259
+salary:40000
+from_date:1985-02-08
+to_date:1986-02-08

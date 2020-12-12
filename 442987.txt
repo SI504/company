@@ -1,0 +1,10 @@
+emp_no:442987
+birth_date:1955-01-30
+first_name:Sukumar
+last_name:Sherertz
+gender:M
+hire_date:1985-02-17
+s.emp_no:442987
+salary:49216
+from_date:1985-02-17
+to_date:1986-02-17

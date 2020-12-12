@@ -1,0 +1,10 @@
+emp_no:249946
+birth_date:1959-09-14
+first_name:Yahiko
+last_name:Halevi
+gender:M
+hire_date:1985-02-03
+s.emp_no:249946
+salary:40000
+from_date:1985-02-03
+to_date:1986-02-03

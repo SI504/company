@@ -1,0 +1,10 @@
+emp_no:481430
+birth_date:1958-12-30
+first_name:Jongsuk
+last_name:Mahnke
+gender:M
+hire_date:1985-02-18
+s.emp_no:481430
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

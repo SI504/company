@@ -1,0 +1,10 @@
+emp_no:296140
+birth_date:1958-04-21
+first_name:Saeko
+last_name:Litecky
+gender:M
+hire_date:1985-02-11
+s.emp_no:296140
+salary:48616
+from_date:1985-02-11
+to_date:1986-02-11

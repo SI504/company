@@ -1,0 +1,10 @@
+emp_no:465842
+birth_date:1958-10-19
+first_name:Ung
+last_name:Liedekerke
+gender:F
+hire_date:1985-02-17
+s.emp_no:465842
+salary:48831
+from_date:1985-02-17
+to_date:1986-02-17

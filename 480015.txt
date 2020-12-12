@@ -1,0 +1,10 @@
+emp_no:480015
+birth_date:1959-10-14
+first_name:Nahid
+last_name:Skogmar
+gender:F
+hire_date:1985-02-04
+s.emp_no:480015
+salary:40000
+from_date:1985-02-04
+to_date:1986-02-04

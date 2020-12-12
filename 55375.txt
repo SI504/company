@@ -1,0 +1,10 @@
+emp_no:55375
+birth_date:1955-05-13
+first_name:Houman
+last_name:Caine
+gender:F
+hire_date:1985-02-07
+s.emp_no:55375
+salary:66472
+from_date:1985-02-07
+to_date:1986-02-07

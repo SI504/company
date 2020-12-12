@@ -1,0 +1,10 @@
+emp_no:229731
+birth_date:1958-12-17
+first_name:Frederique
+last_name:Lamparter
+gender:M
+hire_date:1985-02-13
+s.emp_no:229731
+salary:53046
+from_date:1985-02-13
+to_date:1986-02-13

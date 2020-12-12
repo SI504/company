@@ -1,0 +1,10 @@
+emp_no:34059
+birth_date:1962-03-08
+first_name:Bernt
+last_name:Perz
+gender:M
+hire_date:1985-02-10
+s.emp_no:34059
+salary:54776
+from_date:1985-02-10
+to_date:1985-03-23

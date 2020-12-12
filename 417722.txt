@@ -1,0 +1,10 @@
+emp_no:417722
+birth_date:1963-10-13
+first_name:Georg
+last_name:Dalton
+gender:M
+hire_date:1985-02-17
+s.emp_no:417722
+salary:43112
+from_date:1985-02-17
+to_date:1986-02-17

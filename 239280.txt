@@ -1,0 +1,10 @@
+emp_no:239280
+birth_date:1959-08-02
+first_name:Steve
+last_name:Marzano
+gender:M
+hire_date:1985-02-18
+s.emp_no:239280
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

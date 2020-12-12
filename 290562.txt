@@ -1,0 +1,10 @@
+emp_no:290562
+birth_date:1957-07-15
+first_name:Becky
+last_name:Vesna
+gender:M
+hire_date:1985-02-10
+s.emp_no:290562
+salary:40000
+from_date:1985-02-10
+to_date:1986-02-10

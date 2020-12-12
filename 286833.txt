@@ -1,0 +1,10 @@
+emp_no:286833
+birth_date:1961-07-20
+first_name:Shmuel
+last_name:Perly
+gender:M
+hire_date:1985-02-12
+s.emp_no:286833
+salary:40000
+from_date:1985-02-12
+to_date:1986-02-12

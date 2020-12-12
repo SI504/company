@@ -1,0 +1,10 @@
+emp_no:111035
+birth_date:1962-02-24
+first_name:Przemyslawa
+last_name:Kaelbling
+gender:M
+hire_date:1985-01-01
+s.emp_no:111035
+salary:71612
+from_date:1985-01-01
+to_date:1986-01-01

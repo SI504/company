@@ -1,0 +1,10 @@
+emp_no:82897
+birth_date:1961-01-15
+first_name:Sarita
+last_name:Melski
+gender:F
+hire_date:1985-02-07
+s.emp_no:82897
+salary:55496
+from_date:1985-02-07
+to_date:1986-02-07

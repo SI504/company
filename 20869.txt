@@ -1,0 +1,10 @@
+emp_no:20869
+birth_date:1961-02-08
+first_name:Stepehn
+last_name:Straney
+gender:M
+hire_date:1985-02-17
+s.emp_no:20869
+salary:40000
+from_date:1985-02-17
+to_date:1985-03-01

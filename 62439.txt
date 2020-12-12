@@ -1,0 +1,10 @@
+emp_no:62439
+birth_date:1960-08-13
+first_name:Xianlong
+last_name:Douceur
+gender:F
+hire_date:1985-02-14
+s.emp_no:62439
+salary:44647
+from_date:1985-02-14
+to_date:1986-02-14

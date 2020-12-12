@@ -1,0 +1,10 @@
+emp_no:236300
+birth_date:1958-01-31
+first_name:Panayotis
+last_name:Androutsos
+gender:M
+hire_date:1985-02-14
+s.emp_no:236300
+salary:61167
+from_date:1985-02-14
+to_date:1986-02-14

@@ -1,0 +1,10 @@
+emp_no:276050
+birth_date:1960-07-25
+first_name:Kamran
+last_name:Szilard
+gender:M
+hire_date:1985-02-11
+s.emp_no:276050
+salary:45202
+from_date:1985-02-11
+to_date:1986-02-11

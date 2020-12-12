@@ -1,0 +1,10 @@
+emp_no:281760
+birth_date:1954-03-30
+first_name:Fumiyo
+last_name:Cronau
+gender:F
+hire_date:1985-02-03
+s.emp_no:281760
+salary:76683
+from_date:1985-02-03
+to_date:1986-02-03

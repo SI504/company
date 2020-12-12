@@ -1,0 +1,10 @@
+emp_no:402940
+birth_date:1958-06-12
+first_name:Aleksander
+last_name:Driscoll
+gender:M
+hire_date:1985-02-08
+s.emp_no:402940
+salary:40000
+from_date:1985-02-08
+to_date:1986-02-08

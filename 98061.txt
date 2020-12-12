@@ -1,0 +1,10 @@
+emp_no:98061
+birth_date:1958-04-26
+first_name:Breannda
+last_name:Sundgren
+gender:F
+hire_date:1985-02-12
+s.emp_no:98061
+salary:59326
+from_date:1985-02-12
+to_date:1986-02-12

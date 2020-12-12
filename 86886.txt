@@ -1,0 +1,10 @@
+emp_no:86886
+birth_date:1958-05-07
+first_name:Yannis
+last_name:Compeau
+gender:M
+hire_date:1985-02-08
+s.emp_no:86886
+salary:82716
+from_date:1985-02-08
+to_date:1986-02-08

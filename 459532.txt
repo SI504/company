@@ -1,0 +1,10 @@
+emp_no:459532
+birth_date:1953-06-11
+first_name:Bouchung
+last_name:Cusworth
+gender:M
+hire_date:1985-02-12
+s.emp_no:459532
+salary:40000
+from_date:1985-02-12
+to_date:1986-02-12

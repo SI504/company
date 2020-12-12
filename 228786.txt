@@ -1,0 +1,10 @@
+emp_no:228786
+birth_date:1961-02-13
+first_name:Mack
+last_name:Rajala
+gender:M
+hire_date:1985-02-13
+s.emp_no:228786
+salary:40000
+from_date:1985-02-13
+to_date:1986-02-13

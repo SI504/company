@@ -1,0 +1,10 @@
+emp_no:284703
+birth_date:1959-07-28
+first_name:Rasikan
+last_name:Ghelli
+gender:F
+hire_date:1985-02-06
+s.emp_no:284703
+salary:40112
+from_date:1985-02-06
+to_date:1986-02-06

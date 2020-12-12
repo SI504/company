@@ -1,0 +1,10 @@
+emp_no:69396
+birth_date:1959-01-10
+first_name:Marin
+last_name:Bridgland
+gender:M
+hire_date:1985-02-12
+s.emp_no:69396
+salary:40165
+from_date:1985-02-12
+to_date:1986-02-12

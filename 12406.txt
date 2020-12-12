@@ -1,0 +1,10 @@
+emp_no:12406
+birth_date:1961-08-05
+first_name:Mack
+last_name:Marchesini
+gender:M
+hire_date:1985-02-05
+s.emp_no:12406
+salary:42913
+from_date:1985-02-05
+to_date:1986-02-05

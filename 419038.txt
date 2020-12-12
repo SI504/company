@@ -1,0 +1,10 @@
+emp_no:419038
+birth_date:1963-01-02
+first_name:Toshimi
+last_name:Scallan
+gender:M
+hire_date:1985-02-18
+s.emp_no:419038
+salary:48861
+from_date:1985-02-18
+to_date:1986-02-18

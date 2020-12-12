@@ -1,0 +1,10 @@
+emp_no:75823
+birth_date:1957-06-27
+first_name:Stamatina
+last_name:Kroft
+gender:M
+hire_date:1985-02-12
+s.emp_no:75823
+salary:49255
+from_date:1985-02-12
+to_date:1986-02-12

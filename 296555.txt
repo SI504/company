@@ -1,0 +1,10 @@
+emp_no:296555
+birth_date:1952-03-11
+first_name:Tuval
+last_name:Chiodo
+gender:M
+hire_date:1985-02-02
+s.emp_no:296555
+salary:40000
+from_date:1985-02-02
+to_date:1986-02-02

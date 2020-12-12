@@ -1,0 +1,10 @@
+emp_no:272528
+birth_date:1957-04-09
+first_name:Shahaf
+last_name:Talmor
+gender:M
+hire_date:1985-02-18
+s.emp_no:272528
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

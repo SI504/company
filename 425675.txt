@@ -1,0 +1,10 @@
+emp_no:425675
+birth_date:1964-09-13
+first_name:Toshiko
+last_name:Schlenzig
+gender:F
+hire_date:1985-02-18
+s.emp_no:425675
+salary:102766
+from_date:1985-02-18
+to_date:1986-02-18

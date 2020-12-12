@@ -1,0 +1,10 @@
+emp_no:53031
+birth_date:1960-10-30
+first_name:Harjit
+last_name:Rosenbaum
+gender:F
+hire_date:1985-02-03
+s.emp_no:53031
+salary:40000
+from_date:1985-02-03
+to_date:1986-02-03

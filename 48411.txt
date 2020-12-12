@@ -1,0 +1,10 @@
+emp_no:48411
+birth_date:1960-10-17
+first_name:Tesuro
+last_name:Ramsak
+gender:F
+hire_date:1985-02-17
+s.emp_no:48411
+salary:50318
+from_date:1985-02-17
+to_date:1986-02-17

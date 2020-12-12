@@ -1,0 +1,10 @@
+emp_no:226382
+birth_date:1953-03-18
+first_name:Moss
+last_name:Khasidashvili
+gender:M
+hire_date:1985-02-06
+s.emp_no:226382
+salary:71601
+from_date:1985-02-06
+to_date:1986-02-06

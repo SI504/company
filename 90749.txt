@@ -1,0 +1,10 @@
+emp_no:90749
+birth_date:1953-09-28
+first_name:Martins
+last_name:Vesna
+gender:F
+hire_date:1985-02-13
+s.emp_no:90749
+salary:58527
+from_date:1985-02-13
+to_date:1986-02-13

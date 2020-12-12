@@ -1,0 +1,10 @@
+emp_no:217494
+birth_date:1959-03-25
+first_name:Sandeepan
+last_name:Gajiwala
+gender:F
+hire_date:1985-02-19
+s.emp_no:217494
+salary:51458
+from_date:1985-02-19
+to_date:1986-02-19

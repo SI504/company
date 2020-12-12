@@ -1,0 +1,10 @@
+emp_no:273367
+birth_date:1954-02-01
+first_name:Shalesh
+last_name:Munawer
+gender:F
+hire_date:1985-02-03
+s.emp_no:273367
+salary:47424
+from_date:1985-02-03
+to_date:1986-02-03

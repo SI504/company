@@ -1,0 +1,10 @@
+emp_no:404728
+birth_date:1956-06-08
+first_name:Manu
+last_name:Yetim
+gender:M
+hire_date:1985-02-08
+s.emp_no:404728
+salary:45748
+from_date:1985-02-08
+to_date:1986-02-08

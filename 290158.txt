@@ -1,0 +1,10 @@
+emp_no:290158
+birth_date:1953-05-24
+first_name:Irena
+last_name:Dredge
+gender:F
+hire_date:1985-02-17
+s.emp_no:290158
+salary:47017
+from_date:1985-02-17
+to_date:1986-02-17

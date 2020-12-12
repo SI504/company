@@ -1,0 +1,10 @@
+emp_no:219353
+birth_date:1957-03-26
+first_name:Eben
+last_name:Kusakari
+gender:M
+hire_date:1985-02-08
+s.emp_no:219353
+salary:59767
+from_date:1985-02-08
+to_date:1986-02-08

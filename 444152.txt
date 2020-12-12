@@ -1,0 +1,10 @@
+emp_no:444152
+birth_date:1954-03-19
+first_name:Nahum
+last_name:Nastansky
+gender:M
+hire_date:1985-02-04
+s.emp_no:444152
+salary:41490
+from_date:1985-02-04
+to_date:1986-02-04

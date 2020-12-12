@@ -1,0 +1,10 @@
+emp_no:96355
+birth_date:1964-02-21
+first_name:Aloke
+last_name:Bierman
+gender:M
+hire_date:1985-02-07
+s.emp_no:96355
+salary:58923
+from_date:1985-02-07
+to_date:1986-02-07

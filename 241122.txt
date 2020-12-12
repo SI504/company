@@ -1,0 +1,10 @@
+emp_no:241122
+birth_date:1963-09-21
+first_name:Ute
+last_name:Shigei
+gender:F
+hire_date:1985-02-07
+s.emp_no:241122
+salary:73574
+from_date:1985-02-07
+to_date:1986-02-07

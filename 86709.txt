@@ -1,0 +1,10 @@
+emp_no:86709
+birth_date:1963-05-17
+first_name:Junsik
+last_name:Uhrik
+gender:F
+hire_date:1985-02-07
+s.emp_no:86709
+salary:63359
+from_date:1985-02-07
+to_date:1986-02-07

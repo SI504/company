@@ -1,0 +1,10 @@
+emp_no:49250
+birth_date:1958-09-22
+first_name:Nechama
+last_name:Birdsall
+gender:F
+hire_date:1985-02-09
+s.emp_no:49250
+salary:40000
+from_date:1985-02-09
+to_date:1986-02-09

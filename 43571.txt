@@ -1,0 +1,10 @@
+emp_no:43571
+birth_date:1958-11-17
+first_name:Kendra
+last_name:Homond
+gender:F
+hire_date:1985-02-19
+s.emp_no:43571
+salary:56381
+from_date:1985-02-19
+to_date:1986-02-19

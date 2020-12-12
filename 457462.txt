@@ -1,0 +1,10 @@
+emp_no:457462
+birth_date:1958-09-05
+first_name:Heekeun
+last_name:Fandrianto
+gender:M
+hire_date:1985-02-17
+s.emp_no:457462
+salary:50456
+from_date:1985-02-17
+to_date:1986-02-17

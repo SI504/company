@@ -1,0 +1,10 @@
+emp_no:266957
+birth_date:1952-07-18
+first_name:Susumu
+last_name:Marciano
+gender:M
+hire_date:1985-02-04
+s.emp_no:266957
+salary:40000
+from_date:1985-02-04
+to_date:1986-02-04

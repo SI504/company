@@ -1,0 +1,10 @@
+emp_no:427957
+birth_date:1959-07-02
+first_name:Tru
+last_name:Laurillard
+gender:M
+hire_date:1985-02-12
+s.emp_no:427957
+salary:70221
+from_date:1985-02-12
+to_date:1986-02-12

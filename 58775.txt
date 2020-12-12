@@ -1,0 +1,10 @@
+emp_no:58775
+birth_date:1960-11-17
+first_name:Gonzalo
+last_name:Mahmud
+gender:F
+hire_date:1985-02-09
+s.emp_no:58775
+salary:40000
+from_date:1985-02-09
+to_date:1986-02-09

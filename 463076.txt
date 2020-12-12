@@ -1,0 +1,10 @@
+emp_no:463076
+birth_date:1954-07-25
+first_name:Mechthild
+last_name:Swen
+gender:M
+hire_date:1985-02-18
+s.emp_no:463076
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

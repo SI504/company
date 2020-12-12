@@ -1,0 +1,10 @@
+emp_no:430759
+birth_date:1954-08-08
+first_name:Fumiko
+last_name:Buchter
+gender:M
+hire_date:1985-02-02
+s.emp_no:430759
+salary:55232
+from_date:1985-02-02
+to_date:1986-02-02

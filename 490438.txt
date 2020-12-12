@@ -1,0 +1,10 @@
+emp_no:490438
+birth_date:1953-11-08
+first_name:Kamran
+last_name:Azadmanesh
+gender:F
+hire_date:1985-02-19
+s.emp_no:490438
+salary:56311
+from_date:1985-02-19
+to_date:1986-02-19

@@ -1,0 +1,10 @@
+emp_no:241019
+birth_date:1956-11-02
+first_name:Niranjan
+last_name:Templeman
+gender:F
+hire_date:1985-02-13
+s.emp_no:241019
+salary:71221
+from_date:1985-02-13
+to_date:1986-02-13

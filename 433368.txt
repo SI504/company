@@ -1,0 +1,10 @@
+emp_no:433368
+birth_date:1963-06-28
+first_name:Fatemeh
+last_name:Lakshmanan
+gender:F
+hire_date:1985-02-03
+s.emp_no:433368
+salary:49182
+from_date:1985-02-03
+to_date:1986-02-03

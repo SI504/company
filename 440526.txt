@@ -1,0 +1,10 @@
+emp_no:440526
+birth_date:1964-10-14
+first_name:Mircea
+last_name:Sessa
+gender:M
+hire_date:1985-02-11
+s.emp_no:440526
+salary:40000
+from_date:1985-02-11
+to_date:1986-02-11

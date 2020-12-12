@@ -1,0 +1,10 @@
+emp_no:88830
+birth_date:1953-10-03
+first_name:Shih
+last_name:Auria
+gender:M
+hire_date:1985-02-04
+s.emp_no:88830
+salary:58314
+from_date:1985-02-04
+to_date:1986-02-04

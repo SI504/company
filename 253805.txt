@@ -1,0 +1,10 @@
+emp_no:253805
+birth_date:1955-01-12
+first_name:Malu
+last_name:Fargier
+gender:F
+hire_date:1985-02-10
+s.emp_no:253805
+salary:57569
+from_date:1985-02-10
+to_date:1986-02-10

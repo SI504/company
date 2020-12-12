@@ -1,0 +1,10 @@
+emp_no:464724
+birth_date:1955-07-19
+first_name:Thanasis
+last_name:Luon
+gender:F
+hire_date:1985-02-05
+s.emp_no:464724
+salary:50423
+from_date:1985-02-05
+to_date:1986-02-05

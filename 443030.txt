@@ -1,0 +1,10 @@
+emp_no:443030
+birth_date:1956-09-15
+first_name:Ramalingam
+last_name:Validov
+gender:M
+hire_date:1985-02-05
+s.emp_no:443030
+salary:70443
+from_date:1985-02-05
+to_date:1986-02-05

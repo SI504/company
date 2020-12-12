@@ -1,0 +1,10 @@
+emp_no:497540
+birth_date:1957-09-21
+first_name:Heping
+last_name:Perri
+gender:M
+hire_date:1985-02-12
+s.emp_no:497540
+salary:56643
+from_date:1985-02-12
+to_date:1986-02-12

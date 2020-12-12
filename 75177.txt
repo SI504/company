@@ -1,0 +1,10 @@
+emp_no:75177
+birth_date:1958-06-13
+first_name:Basant
+last_name:Pero
+gender:M
+hire_date:1985-02-13
+s.emp_no:75177
+salary:44650
+from_date:1985-02-13
+to_date:1986-02-13

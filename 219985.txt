@@ -1,0 +1,10 @@
+emp_no:219985
+birth_date:1952-04-04
+first_name:Luisa
+last_name:Ranka
+gender:M
+hire_date:1985-02-17
+s.emp_no:219985
+salary:41944
+from_date:1985-02-17
+to_date:1986-02-17

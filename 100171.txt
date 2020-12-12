@@ -1,0 +1,10 @@
+emp_no:100171
+birth_date:1957-09-11
+first_name:Adil
+last_name:Rosaz
+gender:F
+hire_date:1985-02-03
+s.emp_no:100171
+salary:40000
+from_date:1985-02-03
+to_date:1986-02-03

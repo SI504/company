@@ -1,0 +1,10 @@
+emp_no:288310
+birth_date:1962-10-30
+first_name:Mohammed
+last_name:Samarati
+gender:M
+hire_date:1985-02-02
+s.emp_no:288310
+salary:61625
+from_date:1985-02-02
+to_date:1986-02-02

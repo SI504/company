@@ -1,0 +1,10 @@
+emp_no:203189
+birth_date:1953-07-19
+first_name:Peternela
+last_name:Rusterholz
+gender:F
+hire_date:1985-02-19
+s.emp_no:203189
+salary:57671
+from_date:1985-02-19
+to_date:1986-02-19

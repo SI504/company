@@ -1,0 +1,10 @@
+emp_no:240379
+birth_date:1956-06-03
+first_name:Lihong
+last_name:Clemencon
+gender:M
+hire_date:1985-02-04
+s.emp_no:240379
+salary:52411
+from_date:1985-02-04
+to_date:1986-02-04

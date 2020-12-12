@@ -1,0 +1,10 @@
+emp_no:295903
+birth_date:1957-07-06
+first_name:Zijian
+last_name:Yavatkar
+gender:F
+hire_date:1985-02-17
+s.emp_no:295903
+salary:40000
+from_date:1985-02-17
+to_date:1986-02-17

@@ -1,0 +1,10 @@
+emp_no:402341
+birth_date:1952-03-30
+first_name:Abdelwaheb
+last_name:Bail
+gender:M
+hire_date:1985-02-04
+s.emp_no:402341
+salary:57598
+from_date:1985-02-04
+to_date:1986-02-04

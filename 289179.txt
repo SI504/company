@@ -1,0 +1,10 @@
+emp_no:289179
+birth_date:1959-11-05
+first_name:Lalit
+last_name:Iivonen
+gender:F
+hire_date:1985-02-04
+s.emp_no:289179
+salary:67143
+from_date:1985-02-04
+to_date:1986-02-04

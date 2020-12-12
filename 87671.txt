@@ -1,0 +1,10 @@
+emp_no:87671
+birth_date:1955-01-27
+first_name:Oldrich
+last_name:Kandlur
+gender:M
+hire_date:1985-02-11
+s.emp_no:87671
+salary:50672
+from_date:1985-02-11
+to_date:1986-02-11

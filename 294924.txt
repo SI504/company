@@ -1,0 +1,10 @@
+emp_no:294924
+birth_date:1959-10-25
+first_name:Carrsten
+last_name:Danner
+gender:F
+hire_date:1985-02-06
+s.emp_no:294924
+salary:40000
+from_date:1985-02-06
+to_date:1986-02-06

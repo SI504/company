@@ -1,0 +1,10 @@
+emp_no:292725
+birth_date:1964-04-21
+first_name:Stafford
+last_name:Velasco
+gender:M
+hire_date:1985-02-02
+s.emp_no:292725
+salary:55227
+from_date:1985-02-02
+to_date:1986-02-02

@@ -1,0 +1,10 @@
+emp_no:247411
+birth_date:1955-04-04
+first_name:Anyuan
+last_name:Hedayat
+gender:M
+hire_date:1985-02-14
+s.emp_no:247411
+salary:67972
+from_date:1985-02-14
+to_date:1986-02-14

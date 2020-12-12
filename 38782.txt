@@ -1,0 +1,10 @@
+emp_no:38782
+birth_date:1959-02-03
+first_name:Udi
+last_name:Oskamp
+gender:F
+hire_date:1985-02-02
+s.emp_no:38782
+salary:40000
+from_date:1985-02-02
+to_date:1986-02-02

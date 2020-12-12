@@ -1,0 +1,10 @@
+emp_no:86222
+birth_date:1954-12-21
+first_name:Alexius
+last_name:Marquardt
+gender:F
+hire_date:1985-02-16
+s.emp_no:86222
+salary:53863
+from_date:1985-02-16
+to_date:1986-02-16

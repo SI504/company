@@ -1,0 +1,10 @@
+emp_no:273681
+birth_date:1962-03-16
+first_name:Ortrun
+last_name:Daescu
+gender:F
+hire_date:1985-02-08
+s.emp_no:273681
+salary:63019
+from_date:1985-02-08
+to_date:1986-02-08

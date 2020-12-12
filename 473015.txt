@@ -1,0 +1,10 @@
+emp_no:473015
+birth_date:1954-09-18
+first_name:Filipe
+last_name:Ranst
+gender:F
+hire_date:1985-02-18
+s.emp_no:473015
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

@@ -1,0 +1,10 @@
+emp_no:279129
+birth_date:1964-02-01
+first_name:Rosalyn
+last_name:Landherr
+gender:F
+hire_date:1985-02-07
+s.emp_no:279129
+salary:48459
+from_date:1985-02-07
+to_date:1986-02-07

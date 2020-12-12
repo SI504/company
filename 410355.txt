@@ -1,0 +1,10 @@
+emp_no:410355
+birth_date:1958-05-29
+first_name:Leif
+last_name:Rosti
+gender:F
+hire_date:1985-02-12
+s.emp_no:410355
+salary:60145
+from_date:1985-02-12
+to_date:1986-02-12

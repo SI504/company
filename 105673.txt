@@ -1,0 +1,10 @@
+emp_no:105673
+birth_date:1959-03-17
+first_name:Juichirou
+last_name:Wilharm
+gender:F
+hire_date:1985-02-18
+s.emp_no:105673
+salary:88747
+from_date:1985-02-18
+to_date:1986-02-18

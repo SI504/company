@@ -1,0 +1,10 @@
+emp_no:28730
+birth_date:1961-12-06
+first_name:Constantine
+last_name:Lampe
+gender:M
+hire_date:1985-02-17
+s.emp_no:28730
+salary:71858
+from_date:1985-02-17
+to_date:1986-02-17

@@ -1,0 +1,10 @@
+emp_no:223752
+birth_date:1958-04-15
+first_name:Inderjeet
+last_name:Pardalos
+gender:M
+hire_date:1985-02-08
+s.emp_no:223752
+salary:47074
+from_date:1985-02-08
+to_date:1986-02-08

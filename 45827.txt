@@ -1,0 +1,10 @@
+emp_no:45827
+birth_date:1953-03-27
+first_name:Ortrun
+last_name:Schonegge
+gender:M
+hire_date:1985-02-13
+s.emp_no:45827
+salary:40000
+from_date:1985-02-13
+to_date:1986-02-13

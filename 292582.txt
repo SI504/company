@@ -1,0 +1,10 @@
+emp_no:292582
+birth_date:1955-04-09
+first_name:Nirmal
+last_name:Bugrara
+gender:F
+hire_date:1985-02-05
+s.emp_no:292582
+salary:51546
+from_date:1985-02-05
+to_date:1986-02-05

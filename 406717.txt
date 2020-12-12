@@ -1,0 +1,10 @@
+emp_no:406717
+birth_date:1958-06-28
+first_name:Patricia
+last_name:Bauknecht
+gender:M
+hire_date:1985-02-03
+s.emp_no:406717
+salary:50642
+from_date:1985-02-03
+to_date:1986-02-03

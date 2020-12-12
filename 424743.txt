@@ -1,0 +1,10 @@
+emp_no:424743
+birth_date:1964-09-14
+first_name:Qiwen
+last_name:Mukaidono
+gender:M
+hire_date:1985-02-12
+s.emp_no:424743
+salary:57910
+from_date:1985-02-12
+to_date:1986-02-12

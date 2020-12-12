@@ -1,0 +1,10 @@
+emp_no:205741
+birth_date:1953-09-13
+first_name:Takahiro
+last_name:Staudhammer
+gender:M
+hire_date:1985-02-04
+s.emp_no:205741
+salary:40000
+from_date:1985-02-04
+to_date:1986-02-04

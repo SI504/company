@@ -1,0 +1,10 @@
+emp_no:262843
+birth_date:1957-05-14
+first_name:Jaewon
+last_name:Matzov
+gender:M
+hire_date:1985-02-09
+s.emp_no:262843
+salary:40000
+from_date:1985-02-09
+to_date:1986-02-09

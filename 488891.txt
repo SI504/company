@@ -1,0 +1,10 @@
+emp_no:488891
+birth_date:1958-01-16
+first_name:Adas
+last_name:Kambil
+gender:F
+hire_date:1985-02-10
+s.emp_no:488891
+salary:61474
+from_date:1985-02-10
+to_date:1986-02-10

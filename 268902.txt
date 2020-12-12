@@ -1,0 +1,10 @@
+emp_no:268902
+birth_date:1954-06-28
+first_name:Arup
+last_name:Krohm
+gender:M
+hire_date:1985-02-03
+s.emp_no:268902
+salary:56509
+from_date:1985-02-03
+to_date:1986-02-03

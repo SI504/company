@@ -1,0 +1,10 @@
+emp_no:467420
+birth_date:1958-06-18
+first_name:Jayesh
+last_name:Figueira
+gender:F
+hire_date:1985-02-17
+s.emp_no:467420
+salary:49860
+from_date:1985-02-17
+to_date:1986-02-17

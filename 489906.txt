@@ -1,0 +1,10 @@
+emp_no:489906
+birth_date:1960-12-10
+first_name:Gregory
+last_name:Griswold
+gender:F
+hire_date:1985-02-05
+s.emp_no:489906
+salary:55228
+from_date:1985-02-05
+to_date:1986-02-05

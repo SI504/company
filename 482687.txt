@@ -1,0 +1,10 @@
+emp_no:482687
+birth_date:1961-06-05
+first_name:Charlene
+last_name:Wendorf
+gender:M
+hire_date:1985-02-17
+s.emp_no:482687
+salary:83789
+from_date:1985-02-17
+to_date:1986-02-17

@@ -1,0 +1,10 @@
+emp_no:263209
+birth_date:1954-08-19
+first_name:Howell
+last_name:Schieder
+gender:M
+hire_date:1985-02-08
+s.emp_no:263209
+salary:40000
+from_date:1985-02-08
+to_date:1986-02-08

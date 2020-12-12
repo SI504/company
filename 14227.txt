@@ -1,0 +1,10 @@
+emp_no:14227
+birth_date:1963-09-03
+first_name:Miyeon
+last_name:Roohalamini
+gender:F
+hire_date:1985-02-13
+s.emp_no:14227
+salary:50463
+from_date:1985-02-13
+to_date:1986-02-13

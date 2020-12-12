@@ -1,0 +1,10 @@
+emp_no:247774
+birth_date:1952-10-22
+first_name:Pranay
+last_name:Jeansoulin
+gender:M
+hire_date:1985-02-06
+s.emp_no:247774
+salary:69832
+from_date:1985-02-06
+to_date:1986-02-06

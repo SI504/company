@@ -1,0 +1,10 @@
+emp_no:458932
+birth_date:1957-08-11
+first_name:Guozhong
+last_name:Wendorf
+gender:M
+hire_date:1985-02-06
+s.emp_no:458932
+salary:57672
+from_date:1985-02-06
+to_date:1986-02-06

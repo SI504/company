@@ -1,0 +1,10 @@
+emp_no:294893
+birth_date:1955-08-24
+first_name:Hironoby
+last_name:Marwedel
+gender:F
+hire_date:1985-02-07
+s.emp_no:294893
+salary:43028
+from_date:1985-02-07
+to_date:1986-02-07

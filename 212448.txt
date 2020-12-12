@@ -1,0 +1,10 @@
+emp_no:212448
+birth_date:1959-02-22
+first_name:Olivera
+last_name:Rossi
+gender:M
+hire_date:1985-02-09
+s.emp_no:212448
+salary:67264
+from_date:1985-02-09
+to_date:1986-02-09

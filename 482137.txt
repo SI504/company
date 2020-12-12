@@ -1,0 +1,10 @@
+emp_no:482137
+birth_date:1964-03-04
+first_name:Maya
+last_name:Cesareni
+gender:M
+hire_date:1985-02-08
+s.emp_no:482137
+salary:67276
+from_date:1985-02-08
+to_date:1986-02-08

@@ -1,0 +1,10 @@
+emp_no:64150
+birth_date:1953-10-21
+first_name:Noritoshi
+last_name:Ghandeharizadeh
+gender:M
+hire_date:1985-02-03
+s.emp_no:64150
+salary:56353
+from_date:1985-02-03
+to_date:1986-02-03

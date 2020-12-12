@@ -1,0 +1,10 @@
+emp_no:425769
+birth_date:1960-10-29
+first_name:Paddy
+last_name:Heuter
+gender:M
+hire_date:1985-02-06
+s.emp_no:425769
+salary:56627
+from_date:1985-02-06
+to_date:1986-02-06

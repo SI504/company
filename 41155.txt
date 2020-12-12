@@ -1,0 +1,10 @@
+emp_no:41155
+birth_date:1959-02-27
+first_name:Poorav
+last_name:Coombs
+gender:M
+hire_date:1985-02-16
+s.emp_no:41155
+salary:40000
+from_date:1985-02-16
+to_date:1986-02-16

@@ -1,0 +1,10 @@
+emp_no:456295
+birth_date:1962-02-04
+first_name:Matk
+last_name:Delgrange
+gender:M
+hire_date:1985-02-09
+s.emp_no:456295
+salary:53752
+from_date:1985-02-09
+to_date:1986-02-09

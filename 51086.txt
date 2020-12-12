@@ -1,0 +1,10 @@
+emp_no:51086
+birth_date:1954-05-26
+first_name:Mohit
+last_name:Rosch
+gender:M
+hire_date:1985-02-10
+s.emp_no:51086
+salary:48047
+from_date:1985-02-10
+to_date:1986-02-10

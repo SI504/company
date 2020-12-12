@@ -1,0 +1,10 @@
+emp_no:230499
+birth_date:1959-08-18
+first_name:Shaowei
+last_name:Radhakrishnan
+gender:M
+hire_date:1985-02-17
+s.emp_no:230499
+salary:40000
+from_date:1985-02-17
+to_date:1986-02-17

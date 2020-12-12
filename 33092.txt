@@ -1,0 +1,10 @@
+emp_no:33092
+birth_date:1961-07-26
+first_name:Guenter
+last_name:Tanemo
+gender:M
+hire_date:1985-02-02
+s.emp_no:33092
+salary:65665
+from_date:1985-02-02
+to_date:1986-02-02

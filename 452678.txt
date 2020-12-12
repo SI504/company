@@ -1,0 +1,10 @@
+emp_no:452678
+birth_date:1957-03-28
+first_name:Houman
+last_name:Ruther
+gender:M
+hire_date:1985-02-08
+s.emp_no:452678
+salary:40000
+from_date:1985-02-08
+to_date:1986-02-08

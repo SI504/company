@@ -1,0 +1,10 @@
+emp_no:29759
+birth_date:1954-07-14
+first_name:Arif
+last_name:Thimonier
+gender:M
+hire_date:1985-02-13
+s.emp_no:29759
+salary:40000
+from_date:1985-02-13
+to_date:1986-02-13

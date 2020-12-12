@@ -1,0 +1,10 @@
+emp_no:438450
+birth_date:1958-11-06
+first_name:Werner
+last_name:Collavizza
+gender:F
+hire_date:1985-02-02
+s.emp_no:438450
+salary:40000
+from_date:1985-02-02
+to_date:1986-02-02

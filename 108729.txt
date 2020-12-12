@@ -1,0 +1,10 @@
+emp_no:108729
+birth_date:1954-02-06
+first_name:Jiang
+last_name:Vesel
+gender:M
+hire_date:1985-02-12
+s.emp_no:108729
+salary:82598
+from_date:1985-02-12
+to_date:1986-02-12

@@ -1,0 +1,10 @@
+emp_no:486307
+birth_date:1955-01-22
+first_name:Mart
+last_name:Ruemmler
+gender:F
+hire_date:1985-02-11
+s.emp_no:486307
+salary:58066
+from_date:1985-02-11
+to_date:1986-02-11

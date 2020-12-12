@@ -1,0 +1,10 @@
+emp_no:273524
+birth_date:1960-09-26
+first_name:Gian
+last_name:Rothe
+gender:F
+hire_date:1985-02-01
+s.emp_no:273524
+salary:54860
+from_date:1985-02-01
+to_date:1986-02-01

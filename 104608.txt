@@ -1,0 +1,10 @@
+emp_no:104608
+birth_date:1956-02-16
+first_name:Parviz
+last_name:Kermarrec
+gender:F
+hire_date:1985-02-17
+s.emp_no:104608
+salary:67721
+from_date:1985-02-17
+to_date:1986-02-17

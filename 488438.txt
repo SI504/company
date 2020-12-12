@@ -1,0 +1,10 @@
+emp_no:488438
+birth_date:1961-08-24
+first_name:Elzbieta
+last_name:Ravishankar
+gender:M
+hire_date:1985-02-05
+s.emp_no:488438
+salary:75706
+from_date:1985-02-05
+to_date:1986-02-05

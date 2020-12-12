@@ -1,0 +1,10 @@
+emp_no:471511
+birth_date:1958-01-11
+first_name:Duro
+last_name:Hiyoshi
+gender:F
+hire_date:1985-02-10
+s.emp_no:471511
+salary:40000
+from_date:1985-02-10
+to_date:1986-02-10

@@ -1,0 +1,10 @@
+emp_no:211812
+birth_date:1962-08-11
+first_name:Chiranjit
+last_name:Ghelli
+gender:M
+hire_date:1985-02-05
+s.emp_no:211812
+salary:81218
+from_date:1985-02-05
+to_date:1986-02-05

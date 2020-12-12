@@ -1,0 +1,10 @@
+emp_no:111400
+birth_date:1959-11-09
+first_name:Arie
+last_name:Staelin
+gender:M
+hire_date:1985-01-01
+s.emp_no:111400
+salary:72446
+from_date:1985-01-01
+to_date:1986-01-01

@@ -1,0 +1,10 @@
+emp_no:440130
+birth_date:1956-09-10
+first_name:Hiroyasu
+last_name:Milicia
+gender:F
+hire_date:1985-02-04
+s.emp_no:440130
+salary:56133
+from_date:1985-02-04
+to_date:1986-02-04

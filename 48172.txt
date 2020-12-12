@@ -1,0 +1,10 @@
+emp_no:48172
+birth_date:1960-12-10
+first_name:Ayonca
+last_name:Schahn
+gender:M
+hire_date:1985-02-10
+s.emp_no:48172
+salary:81693
+from_date:1985-02-10
+to_date:1986-02-10

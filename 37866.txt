@@ -1,0 +1,10 @@
+emp_no:37866
+birth_date:1961-09-16
+first_name:Shugo
+last_name:Soicher
+gender:F
+hire_date:1985-02-14
+s.emp_no:37866
+salary:73787
+from_date:1985-02-14
+to_date:1986-02-14

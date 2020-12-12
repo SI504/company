@@ -1,0 +1,10 @@
+emp_no:59929
+birth_date:1960-05-01
+first_name:Takanari
+last_name:Kroon
+gender:M
+hire_date:1985-02-07
+s.emp_no:59929
+salary:43955
+from_date:1985-02-07
+to_date:1986-02-07

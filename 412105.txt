@@ -1,0 +1,10 @@
+emp_no:412105
+birth_date:1952-06-16
+first_name:Teiji
+last_name:Siksek
+gender:F
+hire_date:1985-02-14
+s.emp_no:412105
+salary:68574
+from_date:1985-02-14
+to_date:1986-02-14

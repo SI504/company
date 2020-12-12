@@ -1,0 +1,10 @@
+emp_no:98233
+birth_date:1954-03-06
+first_name:Hausi
+last_name:Trogemann
+gender:F
+hire_date:1985-02-19
+s.emp_no:98233
+salary:45438
+from_date:1985-02-19
+to_date:1986-02-19

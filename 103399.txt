@@ -1,0 +1,10 @@
+emp_no:103399
+birth_date:1960-05-08
+first_name:Goa
+last_name:Parfitt
+gender:M
+hire_date:1985-02-04
+s.emp_no:103399
+salary:42855
+from_date:1985-02-04
+to_date:1986-02-04

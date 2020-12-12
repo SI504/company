@@ -1,0 +1,10 @@
+emp_no:466180
+birth_date:1955-04-08
+first_name:Troy
+last_name:Lukaszewicz
+gender:M
+hire_date:1985-02-09
+s.emp_no:466180
+salary:71601
+from_date:1985-02-09
+to_date:1986-02-09

@@ -1,0 +1,10 @@
+emp_no:103490
+birth_date:1952-11-17
+first_name:Claudi
+last_name:Kropatsch
+gender:M
+hire_date:1985-02-02
+s.emp_no:103490
+salary:40000
+from_date:1985-02-02
+to_date:1986-02-02

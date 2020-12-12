@@ -1,0 +1,10 @@
+emp_no:44830
+birth_date:1958-03-25
+first_name:Maris
+last_name:Meszaros
+gender:M
+hire_date:1985-02-11
+s.emp_no:44830
+salary:40000
+from_date:1985-02-11
+to_date:1986-02-11

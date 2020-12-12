@@ -1,0 +1,10 @@
+emp_no:24889
+birth_date:1962-08-27
+first_name:Luigi
+last_name:Morris
+gender:M
+hire_date:1985-02-09
+s.emp_no:24889
+salary:58165
+from_date:1985-02-09
+to_date:1986-02-09

@@ -1,0 +1,10 @@
+emp_no:423528
+birth_date:1958-06-27
+first_name:Tsuneo
+last_name:Stellhorn
+gender:F
+hire_date:1985-02-18
+s.emp_no:423528
+salary:50810
+from_date:1985-02-18
+to_date:1986-02-18

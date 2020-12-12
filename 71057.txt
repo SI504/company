@@ -1,0 +1,10 @@
+emp_no:71057
+birth_date:1953-03-11
+first_name:Christfried
+last_name:Orsini
+gender:F
+hire_date:1985-02-12
+s.emp_no:71057
+salary:101420
+from_date:1985-02-12
+to_date:1986-02-12

@@ -1,0 +1,10 @@
+emp_no:291454
+birth_date:1960-10-27
+first_name:King
+last_name:Lemarechal
+gender:M
+hire_date:1985-02-16
+s.emp_no:291454
+salary:43977
+from_date:1985-02-16
+to_date:1986-02-16

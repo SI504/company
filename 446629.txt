@@ -1,0 +1,10 @@
+emp_no:446629
+birth_date:1957-06-14
+first_name:Falguni
+last_name:Barinka
+gender:F
+hire_date:1985-02-12
+s.emp_no:446629
+salary:53681
+from_date:1985-02-12
+to_date:1986-02-12

@@ -1,0 +1,10 @@
+emp_no:467711
+birth_date:1956-08-31
+first_name:Anneke
+last_name:Kamble
+gender:M
+hire_date:1985-02-16
+s.emp_no:467711
+salary:41767
+from_date:1985-02-16
+to_date:1986-02-16

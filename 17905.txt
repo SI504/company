@@ -1,0 +1,10 @@
+emp_no:17905
+birth_date:1964-12-19
+first_name:Wuxu
+last_name:Vilarrasa
+gender:M
+hire_date:1985-02-11
+s.emp_no:17905
+salary:55917
+from_date:1985-02-11
+to_date:1986-02-11

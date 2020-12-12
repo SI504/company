@@ -1,0 +1,10 @@
+emp_no:400855
+birth_date:1954-06-30
+first_name:Szabolcs
+last_name:Wilharm
+gender:M
+hire_date:1985-02-14
+s.emp_no:400855
+salary:59554
+from_date:1985-02-14
+to_date:1986-02-14

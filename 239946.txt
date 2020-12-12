@@ -1,0 +1,10 @@
+emp_no:239946
+birth_date:1962-08-05
+first_name:Eran
+last_name:Muntz
+gender:F
+hire_date:1985-02-18
+s.emp_no:239946
+salary:40000
+from_date:1985-02-18
+to_date:1986-02-18

@@ -1,0 +1,10 @@
+emp_no:297061
+birth_date:1955-06-13
+first_name:Gita
+last_name:Kumaresan
+gender:F
+hire_date:1985-02-07
+s.emp_no:297061
+salary:76331
+from_date:1985-02-07
+to_date:1986-02-07

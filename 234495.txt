@@ -1,0 +1,10 @@
+emp_no:234495
+birth_date:1955-09-05
+first_name:Zdislav
+last_name:Ferriere
+gender:F
+hire_date:1985-02-01
+s.emp_no:234495
+salary:40000
+from_date:1985-02-01
+to_date:1986-02-01

@@ -1,0 +1,10 @@
+emp_no:233652
+birth_date:1955-06-01
+first_name:Hatim
+last_name:Auria
+gender:M
+hire_date:1985-02-07
+s.emp_no:233652
+salary:66535
+from_date:1985-02-07
+to_date:1986-02-07

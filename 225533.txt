@@ -1,0 +1,10 @@
+emp_no:225533
+birth_date:1953-03-24
+first_name:Feiyu
+last_name:Oehlmann
+gender:F
+hire_date:1985-02-08
+s.emp_no:225533
+salary:50918
+from_date:1985-02-08
+to_date:1986-02-08

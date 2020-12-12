@@ -1,0 +1,10 @@
+emp_no:66094
+birth_date:1959-06-03
+first_name:Masali
+last_name:Trogemann
+gender:F
+hire_date:1985-02-13
+s.emp_no:66094
+salary:63459
+from_date:1985-02-13
+to_date:1986-02-13

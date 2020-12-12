@@ -1,0 +1,10 @@
+emp_no:450071
+birth_date:1963-09-03
+first_name:Hitomi
+last_name:Melter
+gender:M
+hire_date:1985-02-08
+s.emp_no:450071
+salary:47557
+from_date:1985-02-08
+to_date:1986-02-08

@@ -1,0 +1,10 @@
+emp_no:288406
+birth_date:1955-04-04
+first_name:Wayne
+last_name:Nannarelli
+gender:M
+hire_date:1985-02-11
+s.emp_no:288406
+salary:75570
+from_date:1985-02-11
+to_date:1986-02-11

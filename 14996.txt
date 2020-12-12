@@ -1,0 +1,10 @@
+emp_no:14996
+birth_date:1962-12-14
+first_name:Jianhao
+last_name:Schahn
+gender:F
+hire_date:1985-02-12
+s.emp_no:14996
+salary:40000
+from_date:1985-02-12
+to_date:1986-02-12

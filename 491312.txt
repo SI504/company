@@ -1,0 +1,10 @@
+emp_no:491312
+birth_date:1962-10-29
+first_name:Goa
+last_name:Talmon
+gender:F
+hire_date:1985-02-04
+s.emp_no:491312
+salary:54023
+from_date:1985-02-04
+to_date:1986-02-04

@@ -1,0 +1,10 @@
+emp_no:280251
+birth_date:1957-06-16
+first_name:Saniya
+last_name:Suwa
+gender:F
+hire_date:1985-02-10
+s.emp_no:280251
+salary:40000
+from_date:1985-02-10
+to_date:1986-02-10

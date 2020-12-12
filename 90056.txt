@@ -1,0 +1,10 @@
+emp_no:90056
+birth_date:1963-04-17
+first_name:Jaihie
+last_name:Klyachko
+gender:F
+hire_date:1985-02-07
+s.emp_no:90056
+salary:40000
+from_date:1985-02-07
+to_date:1986-02-07

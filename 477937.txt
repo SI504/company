@@ -1,0 +1,10 @@
+emp_no:477937
+birth_date:1952-09-27
+first_name:Jessie
+last_name:Koblitz
+gender:M
+hire_date:1985-02-04
+s.emp_no:477937
+salary:40000
+from_date:1985-02-04
+to_date:1986-02-04

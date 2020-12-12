@@ -1,0 +1,10 @@
+emp_no:245253
+birth_date:1963-05-04
+first_name:Beshir
+last_name:Siepmann
+gender:F
+hire_date:1985-02-13
+s.emp_no:245253
+salary:45391
+from_date:1985-02-13
+to_date:1986-02-13

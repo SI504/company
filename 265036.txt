@@ -1,0 +1,10 @@
+emp_no:265036
+birth_date:1957-07-14
+first_name:Fuqing
+last_name:Aamodt
+gender:M
+hire_date:1985-02-11
+s.emp_no:265036
+salary:62378
+from_date:1985-02-11
+to_date:1986-02-11

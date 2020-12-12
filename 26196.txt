@@ -1,0 +1,10 @@
+emp_no:26196
+birth_date:1962-12-03
+first_name:Bokyung
+last_name:Cannard
+gender:F
+hire_date:1985-02-04
+s.emp_no:26196
+salary:40000
+from_date:1985-02-04
+to_date:1986-02-04

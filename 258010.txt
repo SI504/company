@@ -1,0 +1,10 @@
+emp_no:258010
+birth_date:1955-01-08
+first_name:Boaz
+last_name:Birch
+gender:M
+hire_date:1985-02-18
+s.emp_no:258010
+salary:44728
+from_date:1985-02-18
+to_date:1986-02-18

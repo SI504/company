@@ -1,0 +1,10 @@
+emp_no:444773
+birth_date:1960-05-24
+first_name:Jamaludin
+last_name:Benner
+gender:M
+hire_date:1985-02-19
+s.emp_no:444773
+salary:62091
+from_date:1985-02-19
+to_date:1986-02-19

@@ -1,0 +1,10 @@
+emp_no:107523
+birth_date:1962-04-06
+first_name:Hein
+last_name:Anandan
+gender:M
+hire_date:1985-02-05
+s.emp_no:107523
+salary:62181
+from_date:1985-02-05
+to_date:1986-02-05

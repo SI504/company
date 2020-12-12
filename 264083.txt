@@ -1,0 +1,10 @@
+emp_no:264083
+birth_date:1955-04-05
+first_name:Vojin
+last_name:Acton
+gender:F
+hire_date:1985-02-17
+s.emp_no:264083
+salary:40000
+from_date:1985-02-17
+to_date:1986-02-17

@@ -1,0 +1,10 @@
+emp_no:439494
+birth_date:1964-09-07
+first_name:Goa
+last_name:Swick
+gender:M
+hire_date:1985-02-05
+s.emp_no:439494
+salary:52395
+from_date:1985-02-05
+to_date:1986-02-05

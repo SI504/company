@@ -1,0 +1,10 @@
+emp_no:292124
+birth_date:1958-06-04
+first_name:Lijia
+last_name:Schach
+gender:M
+hire_date:1985-02-07
+s.emp_no:292124
+salary:61318
+from_date:1985-02-07
+to_date:1986-02-07

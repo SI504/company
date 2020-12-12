@@ -1,0 +1,10 @@
+emp_no:222382
+birth_date:1958-10-17
+first_name:Marsha
+last_name:Peltason
+gender:M
+hire_date:1985-02-10
+s.emp_no:222382
+salary:50077
+from_date:1985-02-10
+to_date:1986-02-10

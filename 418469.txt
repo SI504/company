@@ -1,0 +1,10 @@
+emp_no:418469
+birth_date:1963-01-24
+first_name:Kristine
+last_name:Gniady
+gender:F
+hire_date:1985-02-14
+s.emp_no:418469
+salary:52352
+from_date:1985-02-14
+to_date:1986-02-14

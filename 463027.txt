@@ -1,0 +1,10 @@
+emp_no:463027
+birth_date:1954-07-23
+first_name:Peer
+last_name:Pews
+gender:M
+hire_date:1985-02-03
+s.emp_no:463027
+salary:47371
+from_date:1985-02-03
+to_date:1986-02-03

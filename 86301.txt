@@ -1,0 +1,10 @@
+emp_no:86301
+birth_date:1960-07-24
+first_name:Giri
+last_name:Baumann
+gender:M
+hire_date:1985-02-15
+s.emp_no:86301
+salary:40000
+from_date:1985-02-15
+to_date:1986-02-15

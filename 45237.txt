@@ -1,0 +1,10 @@
+emp_no:45237
+birth_date:1960-09-28
+first_name:Gao
+last_name:Saoudi
+gender:M
+hire_date:1985-02-17
+s.emp_no:45237
+salary:40000
+from_date:1985-02-17
+to_date:1986-02-17

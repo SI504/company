@@ -1,0 +1,10 @@
+emp_no:277990
+birth_date:1963-03-02
+first_name:Jianwen
+last_name:Etalle
+gender:F
+hire_date:1985-02-04
+s.emp_no:277990
+salary:49813
+from_date:1985-02-04
+to_date:1986-02-04

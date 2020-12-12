@@ -1,0 +1,10 @@
+emp_no:243789
+birth_date:1956-01-28
+first_name:Shigeichiro
+last_name:Vecchi
+gender:F
+hire_date:1985-02-10
+s.emp_no:243789
+salary:40000
+from_date:1985-02-10
+to_date:1986-02-10

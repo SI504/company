@@ -1,0 +1,10 @@
+emp_no:245537
+birth_date:1952-04-22
+first_name:Uri
+last_name:Broomell
+gender:F
+hire_date:1985-02-11
+s.emp_no:245537
+salary:40000
+from_date:1985-02-11
+to_date:1986-02-11

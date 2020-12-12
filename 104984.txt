@@ -1,0 +1,10 @@
+emp_no:104984
+birth_date:1964-03-31
+first_name:Shichao
+last_name:Yetim
+gender:F
+hire_date:1985-02-11
+s.emp_no:104984
+salary:58779
+from_date:1985-02-11
+to_date:1986-02-11

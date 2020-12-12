@@ -1,0 +1,10 @@
+emp_no:242314
+birth_date:1965-01-11
+first_name:Miyeon
+last_name:Burnard
+gender:F
+hire_date:1985-02-07
+s.emp_no:242314
+salary:45492
+from_date:1985-02-07
+to_date:1985-12-13

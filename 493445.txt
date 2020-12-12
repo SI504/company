@@ -1,0 +1,10 @@
+emp_no:493445
+birth_date:1962-03-07
+first_name:Yinghua
+last_name:Solovay
+gender:M
+hire_date:1985-02-12
+s.emp_no:493445
+salary:40852
+from_date:1985-02-12
+to_date:1986-02-12

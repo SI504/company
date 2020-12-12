@@ -1,0 +1,10 @@
+emp_no:455160
+birth_date:1955-04-11
+first_name:Mahendra
+last_name:Cooley
+gender:M
+hire_date:1985-02-19
+s.emp_no:455160
+salary:40000
+from_date:1985-02-19
+to_date:1986-02-19

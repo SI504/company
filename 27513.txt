@@ -1,0 +1,10 @@
+emp_no:27513
+birth_date:1961-09-20
+first_name:Gonzalo
+last_name:Leslie
+gender:M
+hire_date:1985-02-06
+s.emp_no:27513
+salary:57027
+from_date:1985-02-06
+to_date:1986-02-06

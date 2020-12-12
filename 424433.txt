@@ -1,0 +1,10 @@
+emp_no:424433
+birth_date:1952-03-08
+first_name:Debaprosad
+last_name:Monkewich
+gender:F
+hire_date:1985-02-12
+s.emp_no:424433
+salary:50593
+from_date:1985-02-12
+to_date:1986-02-12

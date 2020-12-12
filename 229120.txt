@@ -1,0 +1,10 @@
+emp_no:229120
+birth_date:1964-12-16
+first_name:Aimee
+last_name:Baja
+gender:M
+hire_date:1985-02-06
+s.emp_no:229120
+salary:67400
+from_date:1985-02-06
+to_date:1985-06-12

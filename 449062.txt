@@ -1,0 +1,10 @@
+emp_no:449062
+birth_date:1957-12-07
+first_name:Remco
+last_name:Kavraki
+gender:M
+hire_date:1985-02-14
+s.emp_no:449062
+salary:80364
+from_date:1985-02-14
+to_date:1986-02-14

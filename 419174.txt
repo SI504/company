@@ -1,0 +1,10 @@
+emp_no:419174
+birth_date:1962-01-01
+first_name:Gian
+last_name:Luiz
+gender:F
+hire_date:1985-02-10
+s.emp_no:419174
+salary:47491
+from_date:1985-02-10
+to_date:1986-02-10

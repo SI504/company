@@ -1,0 +1,10 @@
+emp_no:201333
+birth_date:1955-09-25
+first_name:Mircea
+last_name:Perl
+gender:F
+hire_date:1985-02-08
+s.emp_no:201333
+salary:47424
+from_date:1985-02-08
+to_date:1986-02-08

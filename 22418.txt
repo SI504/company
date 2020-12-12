@@ -1,0 +1,10 @@
+emp_no:22418
+birth_date:1956-08-08
+first_name:Xinan
+last_name:Chandrasekhar
+gender:M
+hire_date:1985-02-16
+s.emp_no:22418
+salary:40000
+from_date:1985-02-16
+to_date:1986-02-16

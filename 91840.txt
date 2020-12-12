@@ -1,0 +1,10 @@
+emp_no:91840
+birth_date:1960-03-26
+first_name:Paloma
+last_name:Walston
+gender:M
+hire_date:1985-02-07
+s.emp_no:91840
+salary:40000
+from_date:1985-02-07
+to_date:1986-02-07

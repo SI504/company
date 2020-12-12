@@ -1,0 +1,10 @@
+emp_no:96576
+birth_date:1962-07-05
+first_name:Huiqun
+last_name:Rosay
+gender:F
+hire_date:1985-02-17
+s.emp_no:96576
+salary:52794
+from_date:1985-02-17
+to_date:1986-02-17

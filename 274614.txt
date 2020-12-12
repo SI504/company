@@ -1,0 +1,10 @@
+emp_no:274614
+birth_date:1959-12-21
+first_name:Pranay
+last_name:Thorelli
+gender:M
+hire_date:1985-02-04
+s.emp_no:274614
+salary:56010
+from_date:1985-02-04
+to_date:1986-02-04

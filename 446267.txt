@@ -1,0 +1,10 @@
+emp_no:446267
+birth_date:1964-02-06
+first_name:Xiong
+last_name:Plavsic
+gender:F
+hire_date:1985-02-16
+s.emp_no:446267
+salary:55374
+from_date:1985-02-16
+to_date:1986-02-16

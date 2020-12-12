@@ -1,0 +1,10 @@
+emp_no:22643
+birth_date:1960-01-25
+first_name:Alexius
+last_name:Turnbull
+gender:F
+hire_date:1985-02-03
+s.emp_no:22643
+salary:44792
+from_date:1985-02-03
+to_date:1986-02-03

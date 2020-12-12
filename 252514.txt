@@ -1,0 +1,10 @@
+emp_no:252514
+birth_date:1952-12-25
+first_name:Tsutomu
+last_name:Kemmerer
+gender:M
+hire_date:1985-02-19
+s.emp_no:252514
+salary:65271
+from_date:1985-02-19
+to_date:1986-02-19

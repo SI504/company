@@ -1,0 +1,10 @@
+emp_no:275972
+birth_date:1956-08-01
+first_name:Arto
+last_name:Argence
+gender:F
+hire_date:1985-02-04
+s.emp_no:275972
+salary:68573
+from_date:1985-02-04
+to_date:1986-02-04
